@@ -4,7 +4,7 @@
 	"description": "Infinity 8 blackboard & whiteboard themes featuring 8 two-tone syntax highlighters",
 	"icon": "icon.png",
 	"license": "Apache-2.0",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "markusrafferty",
 	"repository": {
 		"type": "git",
