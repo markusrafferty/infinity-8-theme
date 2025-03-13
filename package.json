@@ -1,0 +1,33 @@
+{
+	"name": "infinity-8-theme",
+	"displayName": "Infinity 8 Theme by Shingo Murata",
+	"description": "Infinity 8 blackboard & whiteboard themes featuring 8 two-tone syntax highlighters",
+	"icon": "icon.png",
+	"license": "Apache-2.0",
+	"version": "1.0.0",
+	"publisher": "markusrafferty",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markusrafferty/infinity-8-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Infinity 8 Whiteboard by Shingo Murata",
+				"uiTheme": "vs",
+				"path": "./themes/whiteboard.json"
+			},
+			{
+				"label": "Infinity 8 Blackboard by Shingo Murata",
+				"uiTheme": "vs-dark",
+				"path": "./themes/blackboard.json"
+			}
+		]
+	}
+}
